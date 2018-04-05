@@ -108,7 +108,7 @@ int main()
                 {
                         winner = board[1][1];
                         playing = false;
-                        cout<<"winner is "<<winner<<endl;
+                        cout<<"Winner is "<<winner<<endl;
                 }
 
                 if(row == -1 && column == -1)
